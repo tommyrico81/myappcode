@@ -12,6 +12,10 @@ Test App +
 <div id="main">>
 <div id="box1">
 
+<form action="" method="POST">
+<input type="text" placeholder="test box"><br>
+</form>
+
 
 
 
