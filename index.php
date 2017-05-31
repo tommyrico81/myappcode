@@ -3,26 +3,21 @@
 <title>
 Test App +
 </title>
+<?php include 'layout.css'; ?>
 </head>
 
 <body>
 
-
-<p>Hello Test App</p>
 <div id="main">>
 <div id="box1">
 
-<form action="" method="POST">
+
+
+
+
+<!--<form action="" method="POST">
 <input type="text" placeholder="test box"><br>
-</form>
-
-
-
-
-
-
-
-
+</form>-->
 
 
 </div>//endbox1
