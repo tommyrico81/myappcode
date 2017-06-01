@@ -6,14 +6,14 @@
 
 <div id="wrap_container">
 <div id="header_container">>
-</div>//endheadercontainer
+</div><!--endheadercontainer-->
 
 <div id="main_container">
 <!--<form action="" method="POST">
 <input type="text" placeholder="test box"><br>
 </form>-->
-</div>//endmaincontainer
-</div>//endwrapcontainer
+</div><!--endmaincontainer-->
+</div><!--endwrapcontainer-->
 
 </body>
 </html>
